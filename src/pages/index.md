@@ -12,11 +12,13 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I'm currently a VP at 645 Ventures, where I invest in infrastructure
+      software, security, and dev tools, as well as leading our engineering
+      team. I previously worked at a few different startups, founded my own,
+      played competitive Halo and Call of Duty, was involved in the Pro
+      Evolution Soccer modding scene, and a lot more stuff. Always happy to chat
+      with folks with similar interests! 
     actions:
       - type: action
         label: Contact Me
