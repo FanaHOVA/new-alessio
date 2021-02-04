@@ -5,9 +5,10 @@ sections:
   - type: section_hero
     title: "Hi, I'm\_Alessio Fanelli!"
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      You will find all kinds of stuff in this blog. Thoughts on technology,
+      early-stage startups, sports, games, who knows. glhf
+
   - type: section_content
     title: About
     section_id: about
