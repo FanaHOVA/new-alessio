@@ -1,17 +1,11 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+subtitle: ''
 img_alt: Portrait of a man with beard and mustache
 template: page
 ---
+I was born and raised in Rome, and eventually made my way to the US. I'm currently a VP at 645 Ventures, where I invest in infrastructure software, security, and dev tools, as well as leading our engineering team. In my spare time, I play basketball, soccer, and Hearthstone along with some FPS games, but I'm starting to lose my touch! 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I also run a newsletter focused called [The Engineering Value Chain Revolution](http://engineeringvaluechain.substack.com), which focuses on developer tooling and software architectures. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+Feel free to reach me at afanelli\[at]645ventures.com or @[FanaHOVA](https://twitter.com/fanahova) on Twitter.

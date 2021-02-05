@@ -29,12 +29,6 @@
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
             }
         ],
         "has_social": true,
@@ -66,7 +60,7 @@
             {
                 "type": "action",
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "https://dev.to/fanahova",
                 "style": "icon",
                 "icon_class": "fa-dev",
                 "new_window": true
@@ -75,6 +69,6 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": ""
     }
 }
