@@ -22,7 +22,7 @@ sections:
       645ventures.com, or @FanaHOVA on Twitter. 
     actions:
       - type: action
-        label: Contact Me
+        label: ''
         url: /contact
         style: button
   - type: section_posts
