@@ -20,11 +20,7 @@ sections:
       Evolution Soccer modding scene, and a lot more stuff. Always happy to chat
       with folks with similar interests! You can find me at afanelli \[at]
       645ventures.com, or @FanaHOVA on Twitter. 
-    actions:
-      - type: action
-        label: ''
-        url: /contact
-        style: button
+    actions: []
   - type: section_posts
     title: Recent Posts
     section_id: recent-posts
