@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: "Hi, I'm\_Alessio Fanelli!"
+    title: "Hi, I'm\_Alessio!"
     section_id: hero
     content: >
       Thoughts on technology, early-stage startups, sports, games, who knows...
