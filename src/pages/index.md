@@ -18,7 +18,8 @@ sections:
       team. I previously worked at a few different startups, founded my own,
       played competitive Halo and Call of Duty, was involved in the Pro
       Evolution Soccer modding scene, and a lot more stuff. Always happy to chat
-      with folks with similar interests! 
+      with folks with similar interests! You can find me at afanelli \[at]
+      645ventures.com, or @FanaHOVA on Twitter. 
     actions:
       - type: action
         label: Contact Me
