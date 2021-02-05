@@ -5,10 +5,9 @@ sections:
   - type: section_hero
     title: "Hi, I'm\_Alessio Fanelli!"
     section_id: hero
-    content: >+
-      You will find all kinds of stuff in this blog. Thoughts on technology,
-      early-stage startups, sports, games, who knows. glhf
-
+    content: >
+      Thoughts on technology, early-stage startups, sports, games, who knows...
+      glhf
   - type: section_content
     title: About
     section_id: about
