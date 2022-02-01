@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: "Hi, I'm\_Alessio!"
+    title: Hi, I'm Alessio!
     section_id: hero
     content: >
       Thoughts on technology, early-stage startups, sports, games, who knows...
@@ -12,12 +12,12 @@ sections:
     title: About
     section_id: about
     content: >
-      I'm currently a VP at 645 Ventures, where I invest in infrastructure
-      software, security, and dev tools, as well as leading our engineering
-      team. I previously worked at a few different startups, founded my own,
-      played competitive Halo and Call of Duty, was involved in the Pro
-      Evolution Soccer modding scene, and a lot more stuff. Always happy to chat
-      with folks with similar interests! You can find me at afanelli \[at]
+      I'm currently a Principal at 645 Ventures, where I invest in software
+      infrastructure (including crypto), dev tools and security. I previously
+      led engineering at a few different startups, founded my own, played
+      competitive Halo and Call of Duty, was involved in the Pro Evolution
+      Soccer modding scene, and a lot more stuff. Always happy to chat with
+      folks with similar interests! You can find me at afanelli \[at]
       645ventures.com, or @FanaHOVA on Twitter. 
     actions: []
   - type: section_posts
