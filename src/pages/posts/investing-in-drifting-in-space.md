@@ -1,6 +1,7 @@
 ---
 title: Investing in Drifting in Space
 date: 2022-03-29T21:13:10.891Z
+thumb_img_path: /images/download-3-.png
 content_img_path: /images/download-3-.png
 template: post
 ---
