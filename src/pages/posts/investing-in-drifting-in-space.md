@@ -2,7 +2,7 @@
 title: Investing in Drifting in Space
 date: 2022-03-29T21:13:10.891Z
 thumb_img_path: /images/download-3-.png
-content_img_path: /images/download-3-.png
+content_img_path: ""
 template: post
 ---
 I made an angel investment in [Drifting in Space](https://driftingin.space/) coming out of the YC W22 batch. DIS is the company behind [Jamsocket](https://jamsocket.com/), an infrastructure provider for “session-lived backends” based on the open source project [Spawner](https://github.com/drifting-in-space/spawner). Paul and Taylor, founders of the company, previously spent time building data-heavy applications at great engineering orgs like Two Sigma and Datadog. 
