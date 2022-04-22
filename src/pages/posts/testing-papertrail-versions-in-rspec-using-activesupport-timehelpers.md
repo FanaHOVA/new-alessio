@@ -1,7 +1,7 @@
 ---
 title: Testing PaperTrail versions in RSpec using ActiveSupport TimeHelpers
 subtitle: ""
-date: 2021-02-05T21:06:56.726Z
+date: 2018-07-10T20:06:56.726Z
 thumb_img_path: /images/screen_shot_2020-03-25_at_10.22.44_am.png
 thumb_img_alt: Code example
 content_img_path: ""
