@@ -3,6 +3,7 @@ title: History of Open Source Licensing
 date: 2021-02-05T22:47:50.390Z
 thumb_img_path: /images/contu_portrait_1978.jpg
 thumb_img_alt: CONTU Portrait
+excerpt: "A brief(ish?) history of open source licensing in the last 50 years. "
 template: post
 ---
 Commercial open source software has always been a head scratcher for many: how exactly can you publish your entire code base online, make it free for people to download, but also create a viable business around it? Red Hat's IPO in '99 was a great result, but it was more of a one-of success than a playbook that other makers could follow. In the past decade open source has boomed in popularity, but the path to commercialization has gotten even more complicated, as the shift to the cloud put AWS and other providers in a position to easily host and redistribute open source project without rewarding the original creators. In this post we will dive into the history of open source software licensing, its evolution over the last 40 years, and what the future holds.
