@@ -1,7 +1,7 @@
 ---
 title: The commoditization of business intelligence tools, the rise of "embedded
   intelligence"
-date: 2022-04-25T17:37:09.218Z
+date: 2020-12-15T18:37:09.218Z
 thumb_img_path: https://images.ctfassets.net/clfay1lxzjey/1G1rae6Y5jamT0VlPiNXwJ/d0aed4f4ef4bb40b1b356c15f0ba77ea/luke-chesser-JKUTrJ4vK00-unsplash.jpg
 thumb_img_alt: Analytics dashboard
 content_img_path: https://images.ctfassets.net/clfay1lxzjey/1G1rae6Y5jamT0VlPiNXwJ/d0aed4f4ef4bb40b1b356c15f0ba77ea/luke-chesser-JKUTrJ4vK00-unsplash.jpg
