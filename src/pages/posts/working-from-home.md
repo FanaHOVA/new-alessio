@@ -5,7 +5,7 @@ date: 2020-12-18T05:00:00.000Z
 thumb_img_path: https://images.ctfassets.net/clfay1lxzjey/1G1rae6Y5jamT0VlPiNXwJ/d0aed4f4ef4bb40b1b356c15f0ba77ea/luke-chesser-JKUTrJ4vK00-unsplash.jpg
 thumb_img_alt: Analytics dashboard
 content_img_path: https://images.ctfassets.net/clfay1lxzjey/1G1rae6Y5jamT0VlPiNXwJ/d0aed4f4ef4bb40b1b356c15f0ba77ea/luke-chesser-JKUTrJ4vK00-unsplash.jpg
-content_img_alt: A man sitting at the table
+content_img_alt: ""
 excerpt: A brief history of business intelligence, and the trend of "embedded
   intelligence" that has been gaining popularity
 canonical_url: ""
