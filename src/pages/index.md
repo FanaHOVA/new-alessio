@@ -11,14 +11,12 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: >
-      I'm currently a Principal at 645 Ventures, where I invest in software
-      infrastructure (including crypto), dev tools and security. I previously
-      led engineering at a few different startups, founded my own, played
-      competitive Halo and Call of Duty, was involved in the Pro Evolution
-      Soccer modding scene, and a lot more stuff. Always happy to chat with
-      folks with similar interests! You can find me at afanelli \[at]
-      645ventures.com, or @FanaHOVA on Twitter. 
+    content: I'm a partner at Decibel.vc, where I invest in software infrastructure,
+      dev tools and security. I previously led engineering at a few different
+      startups, founded my own, played competitive Halo and Call of Duty, was
+      involved in the Pro Evolution Soccer modding scene, and a lot more stuff.
+      Always happy to chat with folks with similar interests! You can find me at
+      alessio [at] decibel.vc, or @FanaHOVA on Twitter.
     actions: []
   - type: section_posts
     title: Recent Posts
