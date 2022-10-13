@@ -29,8 +29,12 @@ Collecting good spots for in-person meeting in San Francisco:
 * 🍽️ La Mediterranee on Fillmore for lunch
 * 🍺 The Snug on Fillmore for drinks 
 
-**Mission:**
+**Mission **
 
 * ☕ Dolores Park Cafe for coffee, enough seats there or walk the park
-* ☕ La Reyna Bakery on 24th St for pastries and coffee
+* ☕ La Reyna Bakery on 24th St and Shotwell for pastries and coffee
+* ☕ Bernie's on 24th and Noe for pastries and coffee
+* ☕ Noe Cafe on Sanchez and 26th for coffee (or a Spritz...)
 * 🍽️ Souvla on Valencia for lunch
+* 🍽️ Taqueria Vallarta on 24th and Harrison for lunch
+* 🍺 Evil Eye on Mission & 25th for drinks
